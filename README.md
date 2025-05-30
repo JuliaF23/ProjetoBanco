@@ -45,7 +45,7 @@ para alcançar seus objetivos comerciais.
 -MLR (Modelo Lógico Relaciona) / RLM (Relational Logical Model):
 ![image](https://github.com/user-attachments/assets/c789e747-3361-4181-a87e-e5869941030d)
 
-
+</br>
 
 ### 4. MF (Modelo Físico) / Physical model: 
  
