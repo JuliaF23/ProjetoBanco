@@ -1,3 +1,25 @@
+## Database Project
+
+### 1. Objective and Problem Description
+
+This project was developed to address the complex challenges that companies across all sectors face in their daily operations and strategic decision-making.
+
+
+### 2. LRM (Logical Relational Model) and ERM (Entity-Relationship Model)
+   
+Considering the challenges previously identified, we present below the models developed to address one specific area of difficulty. The objective is to improve and focus efforts on a particular pain point.
+
+### 2.1 Improvements in Strategic Planning:
+
+SynthAI makes it possible to simulate various business scenarios, providing a broad view of the consequences of strategic decisions. This allows leaders to assess the impact of different variables and adopt more informed approaches to achieve their business goals.
+
+
+
+
+</br>
+</br>
+</br>
+
 ## Projeto de Banco de Dados
 
 ### 1. Objetivo e descrição do problema
