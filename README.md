@@ -14,9 +14,6 @@ Considering the challenges previously identified, we present below the models de
 SynthAI makes it possible to simulate various business scenarios, providing a broad view of the consequences of strategic decisions. This allows leaders to assess the impact of different variables and adopt more informed approaches to achieve their business goals.
 
 
-
-
-</br>
 </br>
 </br>
 
@@ -42,15 +39,15 @@ visão ampla das consequências das decisões estratégicas. Isso permite aos
 líderes avaliar o impacto das variáveis e adotar abordagens mais embasadas 
 para alcançar seus objetivos comerciais. 
 
--MER (Modelo Entidade Relacionamento):
+-MER (Modelo Entidade Relacionamento) / ER model (Entity-Relationship Model): 
 ![image](https://github.com/user-attachments/assets/d76ff48c-92ce-4ff8-8ec5-ff7608135ba0)
 
--MLR (Modelo Lógico Relaciona):
+-MLR (Modelo Lógico Relaciona) / RLM (Relational Logical Model):
 ![image](https://github.com/user-attachments/assets/c789e747-3361-4181-a87e-e5869941030d)
 
 
 
-### 4. MF (Modelo Físico) 
+### 4. MF (Modelo Físico) / Physical model: 
  
 CREATE TABLE Empresa_melhoria ( 
     cnpj_empre NUMBER(14) PRIMARY KEY, 
